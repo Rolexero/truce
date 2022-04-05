@@ -41,7 +41,7 @@ export default function ServiceHeader() {
                 color:'#202223'
               }}
               >
-              A Service in PagerDuty represents a component, microservice or piece of infrastructer a team operates,<br/> 
+              A Service in Truce represents a component, microservice or piece of infrastructer a team operates,<br/> 
               manages, and monitors. Usually, it's something you'd go on call for. Learn more about the service directory.
               </Typography>
           </Item>

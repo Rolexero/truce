@@ -1,16 +1,15 @@
-
 body {
-  margin: 0;
-  /* background-color: #f6f6f6; */
-  font-family: sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    /* background-color: #f6f6f6; */
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-.App{
- height: 100vh;
- font-family: sans-serif;
- text-align: center;
- background-color: #f6f6f6;
- box-sizing: border-box;
+.App {
+    height: 100vh;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    background-color: #f6f6f6;
+    box-sizing: border-box;
 }
